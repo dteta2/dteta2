@@ -1,0 +1,5 @@
+Filep=C:\AppServ\www\familytree\TetaFamilyHeritage\teta.ged
+hostport=localhost
+DataBase=tmp_familytree
+User=root
+Password=
